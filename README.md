@@ -1,7 +1,7 @@
 # 🖥️ **Minishell** - Projet École 42
 
 <p align="center">
-  <img src="https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/pipexe.png" alt="Pipex 42 project badge"/>
+  <img src="https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/minishelle.png" alt="Mini Shell 42 project badge"/>
 </p>
 
 Bienvenue dans **Minishell**, un projet inspiré du shell Unix, développé dans le cadre de la formation à l'école 42. L'objectif principal de ce projet est de créer un shell minimaliste en C, capable de gérer des commandes, des redirections, des pipes et plus encore.
